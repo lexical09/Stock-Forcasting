@@ -1,6 +1,4 @@
-# https://stackoverflow.com/questions/12433076/download-history-stock-prices-automatically-from-yahoo-finance-in-python
-# https://pandas-docs.github.io/pandas-docs-travis/indexing.html
-# https://towardsdatascience.com/time-series-analysis-in-python-an-introduction-70d5a5b1d52a
+
 
 # The dependencies include 
 	# matplotlib for plotting
