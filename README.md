@@ -23,11 +23,11 @@ These can be installed with pip from the command line.
 
 Once the required packages have been installed, get started exploring a stock 
 by running an interactive python session or Jupyter Notebook in the same
-folder as stocker.py. 
+folder as stockforcasting.py. 
 
 Import the stocker class by running
 
-`from stocker import Stocker`
+`from stockforcasting import Stocker`
 
 Instantiate a stocker object by calling Stocker with a valid stock ticker. Stocker uses
 the WIKI database on Quandl by default and a list of all 3100
